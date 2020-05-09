@@ -1,0 +1,2 @@
+Resultado de 10.00 / 5.00 = 2.00 
+Resultado de 1.00 + 1.00 = 2.00 
