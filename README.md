@@ -1,2 +1,2 @@
 # Python
-Projects involving Javascript as a base
+Projects involving Python as a base
